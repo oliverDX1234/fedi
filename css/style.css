@@ -2049,3 +2049,17 @@ body .theme-button-one:hover {background:#000f32; }
   padding: 0 20px;
   border:1px solid #f0f0f0;
 }
+
+.menu-ul-wrapper{
+  list-style-type:none;
+  display:flex;
+  justify-content: center;
+}
+
+.menu-ul-wrapper ul li{
+  display: list-item;
+  background: black;
+  padding: 5px 10px;
+  color:white;
+  margin: 0 3px;
+}

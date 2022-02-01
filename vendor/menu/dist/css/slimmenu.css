@@ -94,7 +94,6 @@
 }
 #mega-menu-holder>ul> li.has-submenu> a {padding-right: 40px;}
 #mega-menu-holder>ul> li> a:before {
-    content: '/';
     line-height: 75px;
     position: absolute;
     right: 0;
