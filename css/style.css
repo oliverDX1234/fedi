@@ -201,7 +201,7 @@
 .blog-sidebar .sidebar-recent-post li .post a:hover,.blog-sidebar .sidebar-archives ul li a:hover,.blog-details .share-option .tag-meta li a:hover,.blog-details .share-option .social-icon li a:hover,
 .our-blog .comment-area .single-comment .comment a,.shop-page .single-product .product-name .price,.shop-page .single-product:hover .product-name h5 a,.shop-page .single-product .product-name .add-to-cart a,
 .shop-details .product-details .product-info .price,.faq-page .panel-group .panel-heading h6 a:before {
-  color:#001a57;
+  color:#182867;
 }
 .p-bg-color,.scroll-top,.header-one .top-header .address-wrapper .quotes a:hover,.theme-menu-wrapper .right-widget .search-option form button,
 #mega-menu-holder ul.dropdown li:hover>a:before,.theme-button-one,#theme-main-banner .camera_caption .theme-button-one:hover,.callout-banner.no-bg .theme-button-one,
@@ -209,12 +209,12 @@
 .testimonial-section .owl-theme .owl-dots .owl-dot.active span,.testimonial-section .owl-theme .owl-dots .owl-dot:hover span,#polyglotLanguageSwitcher ul.dropdown li:hover,
 .our-case .single-case-block .hover-content .text .details:hover,.our-blog .single-blog .image-box .overlay .date,.core-values .single-value-block .image-box .overlay a:hover,
 .theme-sidebar-one .sidebar-brochures ul,.theme-pagination ul li a:hover,.theme-pagination ul li.active a,.blog-sidebar .sidebar-tags ul li.active a,.blog-sidebar .sidebar-tags ul li a:hover  {
-  background: #001a57;
+  background: #182867;
 }
 .header-one .top-header .address-wrapper .quotes a,#theme-main-banner .camera_pag .camera_pag_ul li,.theme-pagination ul li a:hover,.theme-pagination ul li.active a,.blog-sidebar .sidebar-tags ul li.active a,
 .blog-sidebar .sidebar-tags ul li a:hover,.shop-page .single-product:hover .image-box {
   border-style: solid;
-  border-color:#001a57;
+  border-color:#182867;
 }
 /*----------------- Theme button ------------------*/
 body .theme-button-one {
@@ -226,7 +226,7 @@ body .theme-button-one {
   border-radius: 5px;
   padding: 0 35px;
 }
-body .theme-button-one:hover {background:#000f32; }
+body .theme-button-one:hover {background:#182867; }
 /*------------------- Theme Title ------------------*/
 .theme-title-one {position: relative;text-align: center;}
 .theme-title-one h2 {
@@ -298,7 +298,7 @@ body .theme-button-one:hover {background:#000f32; }
 }
 .header-one .top-header .address-wrapper .address:first-child {margin-right: 35px;}
 /*--------------------------- Theme Header Two  ---------------------*/
-.header-two .top-header {background: #000f32;padding: 12px 0;}
+.header-two .top-header {background: #182867;padding: 12px 0;}
 .header-two .top-header .left-widget li {display: inline-block;color: #fff;font-size: 16px;}
 #polyglotLanguageSwitcher {margin-left:25px;}
 #polyglotLanguageSwitcher span.trigger:before {
@@ -322,7 +322,7 @@ body .theme-button-one:hover {background:#000f32; }
 .header-two .top-header .social-icon li a:hover {color: #fff;}
 /*------------------------ Theme menu One --------------------*/
 .header-one .theme-menu-wrapper {position: relative;z-index: 99;margin-bottom: -42px;}
-.header-one .theme-menu-wrapper .bg-wrapper {background: #000f32;position: relative;padding-left: 25px;}
+.header-one .theme-menu-wrapper .bg-wrapper {background: #182867;position: relative;padding-left: 25px;}
 .theme-menu-wrapper .right-widget ul li {display: inline-block;line-height: 75px;vertical-align: middle;}
 .theme-menu-wrapper .right-widget .social-icon li a {
   font-size: 15px;
@@ -428,7 +428,7 @@ body .theme-button-one:hover {background:#000f32; }
 }
 .header-two .theme-menu-wrapper .right-widget .cart-icon a {color: #555555;font-size: 18px;}
 .header-two .theme-menu-wrapper .right-widget .cart-icon a span {
-  background: #000f32;
+  background: #182867;
   color: #fff;
   top:35px;
 }
@@ -449,7 +449,7 @@ body .theme-button-one:hover {background:#000f32; }
   top:0;
   left:0;
   z-index: 999;
-  background: #000f32;
+  background: #182867;
   margin: 0;
   padding-top: 0;
   box-shadow: 0px 13px 35px -12px rgba(35,35,35,0.15);
@@ -488,15 +488,8 @@ body .theme-button-one:hover {background:#000f32; }
   left: 0;
   padding: 0;
 }
-#theme-main-banner .camera_caption h1 {text-transform: uppercase;padding: 30px 0 35px 0;}
-#theme-main-banner .camera_caption p {
-  font-size: 26px;
-  line-height: 35px;
-  color: #556382;
-  font-weight: 300;
-}
-#theme-main-banner .camera_caption .theme-button-one {background: #fff;}
-#theme-main-banner .camera_caption .theme-button-one:hover {color: #fff;}
+#theme-main-banner .camera_caption .theme-button-one {background: #182867; color: white}
+#theme-main-banner .camera_caption .theme-button-one:hover {background: white; color: #182881;}
 #theme-main-banner .camera_pag {
   position: absolute;
   height: 100%;
@@ -533,7 +526,7 @@ body .theme-button-one:hover {background:#000f32; }
   padding: 50px 16%;
   border-bottom: 4px solid transparent;
 }
-.top-feature .main-content:hover {border-bottom-color: #001a57;}
+.top-feature .main-content:hover {border-bottom-color: #182867;}
 .top-feature .main-content img {margin: 0 auto;}
 .top-feature .main-content h4 {
   position: relative;
@@ -552,7 +545,7 @@ body .theme-button-one:hover {background:#000f32; }
   margin-left: -20px;
 }
 .top-feature.fix-border .main-content {border-top: 4px solid transparent;border-bottom: none;}
-.top-feature.fix-border .main-content:hover {border-top-color: #001a57;}
+.top-feature.fix-border .main-content:hover {border-top-color: #182867;}
 /*------------------ About Company -----------------*/
 .about-compnay img {border-radius: 5px;}
 .about-compnay .mission-goal {
@@ -617,7 +610,7 @@ body .theme-button-one:hover {background:#000f32; }
   bottom: 0;
   width: 120px;
   border-radius: 5px;
-  background: #001a57;
+  background: #182867;
 }
 .service-style-one .single-service .img-box img {width: 100%;border-radius: 4px;opacity: 0.9;}
 .service-style-one .single-service:hover .text {border-color: #fff;}
@@ -1006,7 +999,7 @@ body .theme-button-one:hover {background:#000f32; }
 .theme-footer-two .bottom-footer p {font-size: 17px;color: #9ca6bf;}
 /*----------------- CallOut Banner  --------------*/
 .callout-banner {
-  background-color: #001a57;
+  background-color: #182867;
   background-image: url(../images/home/pattern2.png);
   padding: 40px 0;
 }
@@ -1034,7 +1027,7 @@ body .theme-button-one:hover {background:#000f32; }
   top:3px;
 }
 .callout-banner .theme-button-one {background: #fff; margin-top: 15px;float: right;}
-.callout-banner .theme-button-one:hover {color: #fff;background: #000f32;}
+.callout-banner .theme-button-one:hover {color: #fff;background: #182867;}
 .callout-banner.no-bg {background: none;padding: 0;margin-bottom: 70px;}
 .callout-banner.no-bg .title {
   color: #232323;
@@ -1093,6 +1086,9 @@ body .theme-button-one:hover {background:#000f32; }
   border-radius: 5px;
   overflow: hidden;
   margin-top: 40px;
+}
+.logoo{
+  width: 207px;
 }
 .our-case .single-case-block img {width: 100%;border-radius: 5px;}
 .our-case .single-case-block .hover-content {
@@ -1303,15 +1299,16 @@ body .theme-button-one:hover {background:#000f32; }
 .google-map-one {height: 300px;}
 /*---------------------- Theme Inner Banner -----------------*/
 .theme-inner-banner {
-  background: url(../images/home/inner-banner.jpg) no-repeat center center;
+  background: url(../images/about/banner.jpg) no-repeat center center;
   background-attachment: fixed;
+  background-position: 65% 50%;
   background-size: cover;
   background-color: #707d9e;
 }
 .theme-inner-banner .overlay {
   background: rgba(0,26,87,0.4);
   text-align: center;
-  padding: 110px 0 70px 0;
+  padding: 150px 0 70px 0;
 }
 .theme-inner-banner .overlay h2 {font-size: 45px;color: #fff;text-transform: uppercase;}
 /*------------------- Why WE Best -------------------*/
@@ -1715,7 +1712,7 @@ body .theme-button-one:hover {background:#000f32; }
   padding: 75px 40px 60px 40px;
 }
 .theme-form-one input:focus,
-.theme-form-one textarea:focus {border-bottom-color: #001a57;}
+.theme-form-one textarea:focus {border-bottom-color: #182867;}
 /*======================= Form Validation ===================*/
 .alert-wrapper {
   display: none;
@@ -1960,7 +1957,7 @@ body .theme-button-one:hover {background:#000f32; }
 }
 .shop-details .product-review-tab .nav-tabs .nav-item.show .nav-link,
 .shop-details .product-review-tab .nav-tabs .nav-link.active {
-  border-bottom-color: #001a57;
+  border-bottom-color: #182867;
   background: transparent;
 }
 .shop-details .product-review-tab .tab-content {padding-top: 28px;}
