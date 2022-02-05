@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/bootstrap/css" />
+      <path value="$PROJECT_DIR$/vendor/menu/src" />
+      <path value="$PROJECT_DIR$/vendor/bootstrap/js" />
+      <path value="$PROJECT_DIR$/vendor/menu/dist" />
+      <path value="$PROJECT_DIR$/vendor/sanzzy-map/dist" />
+      <path value="$PROJECT_DIR$/vendor/WOW-master/spec" />
+      <path value="$PROJECT_DIR$/vendor/Camera-master/css" />
+      <path value="$PROJECT_DIR$/vendor/WOW-master/dist" />
+      <path value="$PROJECT_DIR$/vendor/WOW-master/css" />
+      <path value="$PROJECT_DIR$/vendor/Camera-master/images" />
+      <path value="$PROJECT_DIR$/vendor/Camera-master/scripts" />
+      <path value="$PROJECT_DIR$/vendor/WOW-master/src" />
+      <path value="$PROJECT_DIR$/vendor/sanzzy-map/src" />
+      <path value="$PROJECT_DIR$/vendor/sanzzy-map/test" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/vendor/fancybox/docs" />
+      <path value="$PROJECT_DIR$/vendor/fancybox/src" />
+      <path value="$PROJECT_DIR$/vendor/fancybox/dist" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+</project>

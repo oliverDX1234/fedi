@@ -185,6 +185,16 @@
 .shop-page .single-product .image-box,.shop-page .single-product .product-name .add-to-cart,.shop-page .single-product .product-name .add-to-cart a,.shop-details .product-review-tab .nav-tabs .nav-link {
   transition: all .3s ease-in-out;
 }
+.theme-button-seven {
+  line-height: 41px;
+  font-size: 12.5px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fff;
+  border-radius: 5px;
+  padding: 0 35px;
+  visibility: hidden;
+}
 .tran4s,.our-solution .single-solution-block .icon,.our-case .single-case-block .hover-content .text,.our-blog .single-blog .image-box img {
   transition: all .4s ease-in-out;
 }
@@ -1313,7 +1323,7 @@ body .theme-button-one:hover {background:#182867; }
 .theme-inner-banner .overlay h2 {font-size: 45px;color: #fff;text-transform: uppercase;}
 /*------------------- Why WE Best -------------------*/
 .why-we-best {
-  background: url(../images/home/11.jpg) no-repeat center center;
+  background: url(../images/about/background.jpg) no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
   background-color: #707d9e;
@@ -1333,7 +1343,7 @@ body .theme-button-one:hover {background:#182867; }
   margin: 55px 0 0 0;
 }
 .why-we-best .wrapper .img-box {
-  background: url(../images/home/16.jpg) no-repeat center center;
+  background: url(../images/about/2.jpg) no-repeat center center;
   background-size: cover;
   border-radius: 0 5px 5px 0;
   position: relative;
@@ -1699,8 +1709,9 @@ body .theme-button-one:hover {background:#182867; }
   margin-top: 50px;
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.08);
 }
+
 .contact-us-section .img-box {
-  background: url(../images/home/22.jpg) no-repeat center;
+  background: url(../images/contact/1.jpg) no-repeat center;
   background-size: cover;
   height: 500px;
   border-radius: 5px 0 0 5px;
@@ -1723,6 +1734,13 @@ body .theme-button-one:hover {background:#182867; }
   top: 0;
   left: 0;
   z-index: 9999999;
+}
+.validation{
+  color: red;
+  position: relative;
+  top: -30px;
+  font-size: 15px;
+  font-weight: 500;
 }
 #success,#error {
   position: relative;
@@ -2047,16 +2065,17 @@ body .theme-button-one:hover {background:#182867; }
   border:1px solid #f0f0f0;
 }
 
-.menu-ul-wrapper{
-  list-style-type:none;
-  display:flex;
-  justify-content: center;
+
+.iconsmind{
+  font-size: 70px !important;
+  top: 5px !important;
+  left: -10px !important;
 }
 
 .menu-ul-wrapper ul li{
   display: list-item;
-  background: black;
+  background: white;
   padding: 5px 10px;
-  color:white;
+  color: black;
   margin: 0 3px;
 }

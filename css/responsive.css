@@ -14,6 +14,11 @@
     padding-left: 0 !important;
     padding-right: 0 !important;
   }
+  .menu-ul-wrapper{
+    list-style-type:none;
+    display:flex;
+    justify-content: center;
+  }
   #theme-main-banner .camera_caption h1 {
     text-transform: uppercase;
     padding: 30px 0 35px 0;
@@ -364,7 +369,9 @@
   .logoo {
     width: 175px;
   }
-
+.theme-button-seven{
+  visibility: unset;
+}
   #theme-main-banner .camera_caption p {
     font-size: 23px;
     line-height: 35px;
