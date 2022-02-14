@@ -132,6 +132,9 @@
   .header-one .top-header {
     padding-top: 25px;
   }
+  .theme-button-seven{
+    visibility: unset;
+  }
   .header-one .top-header .address-wrapper .address .icon {
     font-size: 30px;
   }
@@ -142,6 +145,15 @@
   .header-one .theme-menu-wrapper .bg-wrapper {
     padding-left: 0;
   }
+
+
+
+
+
+  .header-one .top-header .address-wrapper {
+    display: none;
+  }
+
   .header-one .menu-wrapper,
   .header-two .menu-wrapper {
     position: absolute;
@@ -369,9 +381,6 @@
   .logoo {
     width: 175px;
   }
-.theme-button-seven{
-  visibility: unset;
-}
   #theme-main-banner .camera_caption p {
     font-size: 23px;
     line-height: 35px;
@@ -386,9 +395,6 @@
 
   .header-one .top-header {
     padding-bottom: 0;
-  }
-  .header-one .top-header .address-wrapper {
-    display: none;
   }
   .testimonial-section .wrapper .bg {
     padding-left: 15px;
