@@ -1323,18 +1323,19 @@ body .theme-button-one:hover {background:#182867; }
 .google-map-one {height: 300px;}
 /*---------------------- Theme Inner Banner -----------------*/
 .theme-inner-banner {
-  background: url(../images/about/banner.jpg) no-repeat center center;
-  background-attachment: fixed;
-  background-position: 65% 50%;
-  background-size: cover;
-  background-color: #707d9e;
+  margin-top: 15px;
+  position: relative;
+  text-align: center;
+  max-height: 151px;
+  padding: 21px;
+  background: url(../images/pattern1.png) repeat left center;
+  min-height: 273px;
 }
 .theme-inner-banner .overlay {
-  background: rgba(0,26,87,0.4);
   text-align: center;
-  padding: 150px 0 70px 0;
+  padding: 100px 0 70px 0;
 }
-.theme-inner-banner .overlay h2 {font-size: 45px;color: #fff;text-transform: uppercase;}
+.theme-inner-banner .overlay h2 {font-size: 60px;color: #182867;text-transform: uppercase;}
 /*------------------- Why WE Best -------------------*/
 .why-we-best {
   background: url(../images/about/background.jpg) no-repeat center center;

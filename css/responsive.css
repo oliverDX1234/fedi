@@ -304,14 +304,16 @@
     margin-top: 0;
   }
   .theme-inner-banner {
-    background: url(../images/about/banner.jpg) no-repeat center center;
-    background-attachment: fixed;
-    background-position: 65%;
-    background-size: cover;
-    background-color: #707d9e;
+    margin-top: 15px;
+    position: relative;
+    text-align: center;
+    max-height: 151px;
+    padding: 21px;
+    background: url(../images/pattern1.png) repeat left center;
+    min-height: 273px;
   }
   .theme-inner-banner .overlay {
-    padding: 120px 0 60px 0;
+    padding: 100px 0 60px 0;
   }
   .about-compnay-two .left-img {
     margin-top: 20px;
@@ -597,7 +599,7 @@
     margin-top: 35px;
   }
   .why-we-best .wrapper .best-list-item li {
-    padding-left: 55px;
+    padding-left: 71px;
     margin-bottom: 45px;
   }
   .why-we-best .wrapper .best-list-item li .icon {
