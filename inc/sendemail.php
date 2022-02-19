@@ -46,7 +46,7 @@ if (empty($errors)) {
     $mail->Username = '1f66e60c857796';
     $mail->Password = 'd355cdcf45b4c9';
     $mail->SMTPSecure = 'tls';
-    $mail->Port = 487;
+    $mail->Port = 587;
 
     $mail->setFrom($email, $name);
     $mail->addReplyTo($email, $name);
