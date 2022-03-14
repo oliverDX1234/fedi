@@ -497,11 +497,17 @@
     line-height: 60px;
   }
 }
+.text-subheadin{
+  font-size: 23px;
+}
 /*(min-width: 576px) and (max-width: 767px)*/
 
 @media (max-width: 575px) {
   .theme-menu-wrapper {
     padding: 0 17px;
+  }
+  .text-subheadin{
+    font-size: 17px;
   }
   .theme-inner-banner .overlay h2 {
     font-size: 35px;

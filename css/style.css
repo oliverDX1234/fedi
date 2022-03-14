@@ -480,7 +480,7 @@ body .theme-button-one:hover {background:#182867; }
   left:0;
   right: 0;
   bottom: 0;
-  background: rgba(0,26,27,0.23);
+  background: rgba(0,26,27,0.5);
 }
 #theme-main-banner .main-container {position: relative;}
 #theme-main-banner .camera_caption {height: 100%;}
@@ -1365,7 +1365,7 @@ body .theme-button-one:hover {background:#182867; }
   height: 100%;
 }
 .why-we-best-7 .wrapper .img-box {
-  background: url(../images/bachelor/4.jpg) no-repeat center center;
+  background: url(../images/bachelor/7.jpg) no-repeat center center;
   background-size: cover;
   border-radius: 0 5px 5px 0;
   position: relative;
