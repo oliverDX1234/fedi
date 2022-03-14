@@ -7,8 +7,8 @@ require '../vendor/autoload.php';
 
 if (!empty($_POST)) {
     $email = $_POST['email'];
-    $name = $_POST['phone'];
-    $phone = $_POST['name'];
+    $name = $_POST['name'];
+    $phone = $_POST['phone'];
     $subject = $_POST['subject'];
     $message = $_POST['message'];
 
@@ -38,19 +38,19 @@ if (!empty($_POST)) {
 }
 
 if (empty($errors)) {
-    $mail = new PHPMailer();
+    $mail = new PHPMailer(true);
 
     $mail->isSMTP();
-    $mail->Host = 'smtp.mailtrap.io';
+    $mail->Host = 'host258.checkdomain.de';
     $mail->SMTPAuth = true;
-    $mail->Username = '1f66e60c857796';
-    $mail->Password = 'd355cdcf45b4c9';
+    $mail->Username = 'application@fedicampus.com';
+    $mail->Password = 'Application12345!%';
     $mail->SMTPSecure = 'tls';
-    $mail->Port = 2525;
+    $mail->Port = 587;
 
     $mail->setFrom($email, $name);
     $mail->addReplyTo($email, $name);
-    $mail->addAddress($email, $name);
+    $mail->addAddress("contact@fedicampus.com", "Contact");
 
     $mail->Subject = $subject;
 
