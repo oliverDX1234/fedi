@@ -119,7 +119,7 @@
   .faq-section,
   .why-we-best,
   .error-page {
-    margin-bottom: 80px;
+    margin-bottom: 35px;
   }
   .top-feature .main-content {
     padding: 30px 15px;
@@ -394,7 +394,9 @@
     font-size: 30px;
     font-weight: bold;
   }
-
+  .section-spacing{
+    padding-top: 0 !important;
+  }
   .header-one .top-header {
     padding-bottom: 0;
   }
